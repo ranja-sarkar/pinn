@@ -10,4 +10,7 @@ https://github.com/SciML
 SciML
 https://sciml.ai/
 
+Another repo on #pinn:
+https://github.com/maziarraissi/PINNs
+
 
