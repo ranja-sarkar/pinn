@@ -1,4 +1,4 @@
-# All about PINN
+# PINN & Scientific ML
 
 **By Ben Moseley - What is PINN?**: https://benmoseley.blog/my-research/so-what-is-a-physics-informed-neural-network/
 
