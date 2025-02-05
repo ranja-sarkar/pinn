@@ -11,6 +11,8 @@ https://github.com/SciML
 
 SciML webpage: https://sciml.ai/
 
+**Advancing the frontiers of research with SciML:**  https://www.arxiv.org/pdf/2501.18708
+
 Another repo on PINN: https://github.com/maziarraissi/PINNs
 
 M.Raissi paper on PINN: https://github.com/ranja-sarkar/pinn/blob/main/journal-articles/PINN.pdf
