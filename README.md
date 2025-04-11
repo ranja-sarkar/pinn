@@ -11,6 +11,10 @@ https://github.com/SciML
 
 SciML webpage: https://sciml.ai/
 
+
+<img width="484" alt="rs" src="https://github.com/user-attachments/assets/299e1418-7319-4407-8951-62a81bbd8e91" />
+
+
 **Advancing the frontiers of research with SciML:**  https://www.arxiv.org/pdf/2501.18708
 
 Another repo on PINN: https://github.com/maziarraissi/PINNs
